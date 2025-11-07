@@ -88,25 +88,6 @@ src/
 └── main.jsx
 ```
 
-## Customization
 
-### Colors
 
-You can customize the colors by modifying the `tailwind.config.js` file:
 
-```js
-theme: {
-  extend: {
-    colors: {
-      primary: '#3B82F6',  // Change this to your primary color
-      secondary: '#10B981', // Change this to your secondary color
-      dark: '#1F2937',
-      light: '#F9FAFB',
-    },
-  },
-},
-```
-
-## License
-
-This project is licensed under the MIT License.
